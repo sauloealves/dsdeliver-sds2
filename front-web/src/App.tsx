@@ -1,11 +1,12 @@
 
 import './App.css';
-import Counter from './Counter';
+import NavBar from './NavBar';
+
 
 function App() {
   return (
     <div>
-      <Counter />
+      <NavBar />
 
     </div>
   );
